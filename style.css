@@ -1,0 +1,53 @@
+body{
+    background-color: beige;
+}
+.toolcolor,
+.navbar, 
+footer {
+    background-color:rgb(139, 150, 32);
+}
+.pic{
+    padding:1rem;
+    border-radius:2rem;
+    height: 50%;
+}
+#cartModal table img {
+    width: 100px;
+}
+.titles{
+    padding: 2%;
+    color: rgb(66, 45, 45);
+    font-weight: bold;
+    font-size: 25px;
+}
+.btn-color{
+    background-color: rgb(139, 150, 32);
+}
+.social-bloc{
+    background-color: #EFE5D9;
+}
+.content-item{
+    background-color: #8B9620;
+    color: white;
+}
+.company-item > li{
+    margin-bottom: 0%;
+    cursor: pointer;
+}
+.company-item{
+    margin-bottom: 0%;
+}
+.icon-size > a > i {
+    font-size: xx-large;
+    color: gray;
+}
+.icon-size>a:link
+{
+    text-decoration: none;
+}
+.client{
+    font-weight: bold;
+}
+#products{
+    display: none;
+}
